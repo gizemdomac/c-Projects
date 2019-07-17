@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1546370541 source:c:\users\user\desktop\yeni klasör\goruntuisleme\main.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<string>
+	"goruntu.h"
+
+1546370541 c:\users\user\desktop\yeni klasör\goruntuisleme\include\goruntu.h
+	<iostream>
+	<string>
+
+1546370592 source:c:\users\user\desktop\yeni klasör\goruntuisleme\src\goruntu.cpp
+	"goruntu.h"
+	<iostream>
+	<fstream>
+	<istream>
+	<string>
+	<math.h>
+
+1546370541 source:c:\users\user\desktop\projeler\goruntuisleme\main.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<string>
+	"goruntu.h"
+
+1546462099 c:\users\user\desktop\projeler\goruntuisleme\include\goruntu.h
+	<iostream>
+	<string>
+

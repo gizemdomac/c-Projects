@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1545512588 source:c:\users\user\desktop\yeni klasör\randevusistemi\src\akademisyen.cpp
+	"akademisyen.h"
+
+1545512542 c:\users\user\desktop\yeni klasör\randevusistemi\include\akademisyen.h
+	<iostream>
+	<cstring>
+	"randevu.h"
+
+1545512533 source:c:\users\user\desktop\yeni klasör\randevusistemi\src\ogrenci.cpp
+	"ogrenci.h"
+	<fstream>
+	<cstring>
+	<iostream>
+	"randevu.h"
+
+1545512358 c:\users\user\desktop\yeni klasör\randevusistemi\include\ogrenci.h
+	<iostream>
+	<cstring>
+	"randevu.h"
+
+1545081265 source:c:\users\user\desktop\yeni klasör\randevusistemi\src\randevu.cpp
+	"randevu.h"
+	"ogrenci.h"
+	"akademisyen.h"
+
+1545512576 c:\users\user\desktop\yeni klasör\randevusistemi\include\randevu.h
+	<iostream>
+	<cstring>
+
+1545081222 source:c:\users\user\desktop\yeni klasör\randevusistemi\main.cpp
+	<iostream>
+	"randevu.h"
+
+1546371534 source:c:\users\user\desktop\projeler\randevusistemi\main.cpp
+	<iostream>
+	"randevu.h"
+	<istream>
+	<string>
+	<windows.h>
+	<fstream>
+	"ogrenci.h"
+	"akademisyen.h"
+	"randevu.h"
+
+1545848957 c:\users\user\desktop\projeler\randevusistemi\include\randevu.h
+	<iostream>
+	<cstring>
+
+1545847664 c:\users\user\desktop\projeler\randevusistemi\include\ogrenci.h
+	<iostream>
+	<cstring>
+	"randevu.h"
+
+1545847664 c:\users\user\desktop\projeler\randevusistemi\include\akademisyen.h
+	<iostream>
+	<cstring>
+	"randevu.h"
+
+1545847696 source:c:\users\user\desktop\projeler\randevusistemi\src\akademisyen.cpp
+	"akademisyen.h"
+
+1546371590 source:c:\users\user\desktop\projeler\randevusistemi\src\ogrenci.cpp
+	"ogrenci.h"
+	"akademisyen.h"
+	<fstream>
+	<iostream>
+	"randevu.h"
+	<string>
+
+1545851822 source:c:\users\user\desktop\projeler\randevusistemi\src\randevu.cpp
+	"randevu.h"
+	"ogrenci.h"
+	"akademisyen.h"
+
